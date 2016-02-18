@@ -1,0 +1,96 @@
+################# STANDARD LICENSE ##################################
+#                                                                   #
+#   This file is a license for Openeye Scientific Software.  Any    #
+#   modifications to this file may invalidate the license.          #
+#                                                                   #
+#   Dr B.A. Coghlan research group                                  #
+#   Trinity College Dublin, Dublin, Ireland                         #
+#                                                                   #
+#   Fri Jul  6 14:49:38 2007                                        #
+#####################################################################
+#EXP_DATE: 2008 09 01
+#PRODUCT: case
+#FEATURES: python;java
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: fa13a6db09a20a6753c2a5a880131bb7fd42232f52670f9ab95d66b5c6663c97
+#PRODUCT: oechem
+#FEATURES: python;java
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: dcc18fe4a64b0ac3478051c9db2c707104d4c30b026add17586c5fd845f0dac6
+#PRODUCT: bioisostere
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 4e88f3b7854cf8cfa2000af0616ab79bd1efa73b50f423d5e21ca87d6f821e2c
+#PRODUCT: oedepict
+#FEATURES: python;java
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 56ec5cce763fbea97bb809e406ae183bf90546eab9eb1b142b9f79a41698f8af
+#PRODUCT: vida
+#FEATURES: script line
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 6b31affa1312e958ab7d5f935471026886bc8c5accd9b55e8fb86881343f68f4
+#PRODUCT: wabe
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 0081533a6a450cd6e11ab5429c27f6ef2a98a90612ea1e062696d647ceadb960
+#PRODUCT: eon
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: ba9756609ee0440e80ff356b0f60cca6cfd644e72fa69235af77efa688966171
+#PRODUCT: fred2
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 9ab0c6f87f7e007b2b9f41fb53ce200674be3e255b520ad5e03a27298fb5fc7b
+#PRODUCT: filter
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: efb77ed8dd9d13c6635edb2558ab70a36a2f22380c5196beaa9c9f8671f27bbb
+#PRODUCT: shape
+#FEATURES: molecules;grids;python;java
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: e30002e5e2f1e40afc91c4abb0cb0d287bea3217039825cfc3130e93549016da
+#PRODUCT: mol2smarts
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: a3668b495bed227fa1906bd36171f325bad35ae3129da3f709a6d29d96b85927
+#PRODUCT: afitt
+#FEATURES: beta
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: f942eb24e75808b3492bdb9ab8000262f42755af237590a45f0ce0bccba15bd3
+#PRODUCT: quacpac
+#FEATURES: beta
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 5434866c349a9b8dded867037e49a37e864d32b4d144e41d0c0481651ae31dfa
+#PRODUCT: szybki
+#FEATURES: python;java
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 9b955bf6a24f1c23ae389ad1341ed0078a7c4d4eb9e1bbb2da33f2ec947e24fe
+#PRODUCT: rocs
+#FEATURES: parallel
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 2080f6f1ad97060d97141e1d33e8d3db21053debc9894c539ca833c5903bd496
+#PRODUCT: omega
+#FEATURES: gas-phase;toolkit;python;java
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 9a1a43ddaaab4e5a44eb3c7f4b2b60e8e7b6d621bef404864257123708ed62f5
+#PRODUCT: zap
+#FEATURES: basic toolkit;protein pka;perfect charge;python;java
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 7fd6a69ff14b2d01aa7899cd5afa8067a3a410b63ae1d5914ae60639734ab7c5
+#PRODUCT: iupac
+#FEATURES: python;java
+#LICENSEE: Dr B.A. Coghlan research group
+#SITE: Trinity College Dublin, Dublin, Ireland
+LICENSE_KEY: 2ded77bb7a76649ce51593d4e6f9e7daa696ba601e8ed5c0dd50f08022a735c8
+
